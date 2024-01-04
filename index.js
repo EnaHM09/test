@@ -1,7 +1,7 @@
 console.log(`Hi`)
 function click(){
     //console.log(`Thanks`)
-    alert(`hello`)
+    alert(`Thank you`)
 }
 let button = document.querySelector(`button`)
 console.log(button)
