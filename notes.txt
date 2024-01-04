@@ -1,0 +1,21 @@
+git 
+
+1 - git add .
+2 - git commit -m 'some helpful message'
+3 - git push origin main
+
+----------------
+
+css
+
+document.querySelector()
+
+query selector types
+
+element <tagname> - selector is tagname
+
+<p id="some-id">Some crap</p> - selector #some-id
+
+<p class="green">...</p> - selector .green
+
+--------------
