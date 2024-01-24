@@ -19,3 +19,15 @@ element <tagname> - selector is tagname
 <p class="green">...</p> - selector .green
 
 --------------
+
+ creating a new branch
+
+ git checkout -b <branchname>
+
+only use -b if creating new
+
+---------------
+
+ls view files
+
+touch (new file name).(type of file)
